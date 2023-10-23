@@ -1,4 +1,4 @@
-# My-Data-Science-tips 
+# My-Data-Science
 Date of creation: Oct 20 2023
 
 
